@@ -1,0 +1,31 @@
+body{
+    text-align: right;
+    margin : 0;
+    padding : 20px;
+    background-image: url("portfolio.jpg");
+}
+
+h2 {
+    display: inline;
+    right : 20px;
+    margin : 0;
+    padding : 10px;
+ }
+p{
+    text-align: center;
+    font-family: Arial;
+    margin-top: 250px;
+    font-size: xx-large;
+    font-style: italic;
+}
+h1{
+    text-align: left;
+    margin-top: 50px;
+    font-family: cursive;
+}
+header {
+    text-align: left;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
